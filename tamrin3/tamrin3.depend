@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1482067657 source:/home/saeed/Desktop/tamrin3/main.cpp
+	<iostream>
+	<stdlib.h>
+	<stdio.h>
+	<unistd.h>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1482065635 source:/home/saeed/Desktop/akharin/main.cpp
+	<iostream>
+	<unistd.h>
+

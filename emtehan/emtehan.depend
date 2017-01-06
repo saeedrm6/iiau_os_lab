@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1482618332 source:/home/saeed/Desktop/emtehan/main.cpp
+	<iostream>
+	<unistd.h>
+
